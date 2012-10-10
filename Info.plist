@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Author</key>
-	<string>Chris Wanstrath (adapted for Safari by Will Farrington)</string>
+	<string>Andreas Wålm (Fork from Chris Wanstrath)</string>
+	<key>Builder Version</key>
+	<string>8536.26.14</string>
 	<key>CFBundleDisplayName</key>
 	<string>dotjs</string>
 	<key>CFBundleIdentifier</key>
@@ -11,9 +13,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.3</string>
+	<string>1.4</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
